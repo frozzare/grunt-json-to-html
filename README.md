@@ -1,6 +1,6 @@
 # grunt-json-to-html
 
-> Grunt plugin for [json-to-html](https://github.com/frozzare/json-to-html)
+> Grunt plugin for [json-to-html](https://github.com/frozzare/json-to-html) [![Build Status](https://travis-ci.org/frozzare/grunt-json-to-html.png?branch=master)](https://travis-ci.org/frozzare/grunt-json-to-html)
 
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
