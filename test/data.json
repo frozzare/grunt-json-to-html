@@ -1,0 +1,11 @@
+{
+  "hello": "world",
+  "names": [
+    {
+      "name": "fredrik"
+    },
+    {
+      "name": "elli"
+    }
+  ]
+}

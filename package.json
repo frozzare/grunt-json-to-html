@@ -1,0 +1,51 @@
+{
+  "name": "grunt-json-to-html",
+  "description": "Grunt plugin for json-to-html",
+  "version": "0.1.0",
+  "homepage": "https://github.com/frozzare/grunt-json-to-html",
+  "author": {
+    "name": "Fredrik Forsmo",
+    "email": "fredrik.forsmo@gmail.com",
+    "url": "http://forsmo.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frozzare/grunt-json-to-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frozzare/grunt-json-to-html/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/frozzare/grunt-json-to-html/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "dependencies": {
+    "json-to-html": "~0.1.2"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin",
+    "json-to-html",
+    "json"
+  ],
+  "files": [
+    "tasks/*"
+  ]
+}
